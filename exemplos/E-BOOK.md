@@ -1,20 +1,22 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Compliance e IAs Generativas: Revolucionando a Segurança Digital 🌐
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book explora como as IAs Generativas estão transformando a área de compliance e segurança digital. Com 5 capítulos, ele aborda desde conceitos básicos até aplicações práticas no mundo corporativo.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e estruturação do conteúdo;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criação de imagens exclusivas;
+- IA Generativa **[Bing](https://leonardo.ai)** para criação de imagens exclusivas;
+- IA Generativa **[DALL·E](https://chat.openai.com)** para criação de imagens exclusivas;
+- Ferramenta **Microsoft Office** para edição e montagem final.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizamos o "ChatGPT" para desenvolver o roteiro e refinar os textos, garantindo clareza e objetividade. As imagens foram geradas com o "Leonardo AI", "Bing" e "DALL·E", criando ilustrações impactantes. A finalização do design e formatação foi feita no Microsoft Office, uma solução da empresa Microsoft que necessita de uma licença e é muito eficiente.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo didático e ilustrado, com casos de uso práticos e orientações sobre como implementar IAs Generativas em estratégias de compliance. É uma ferramenta valiosa para profissionais e empresas que buscam inovação com responsabilidade.
 
-[LINK PARA O E-BOOK AQUI]()
+📂 [Clique aqui para acessar o e-book](../docs/ebook.pdf)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi um exercício enriquecedor que destacou o papel das IAs na construção de soluções inovadoras e éticas. Essa jornada demonstrou a importância de equilibrar tecnologia e conformidade para um futuro mais seguro.

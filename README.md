@@ -1,44 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Compliance e IAs Generativas: Uma Abordagem Prática
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como as IAs generativas podem ser usadas para auxiliar em temas relacionados à **Compliance**, com foco em otimizar processos, criar conteúdos educativos e apoiar a implementação de regulamentações, como a **LGPD** (Lei Geral de Proteção de Dados) e **GDPR** (General Data Protection Regulation).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (OpenAI)**: Geração de textos explicativos e educativos.
+- **Bing Chat (Microsoft)**: Geração de textos explicativos e educativos.
+- **Bard (Google)**: Geração de textos explicativos e educativos.
+- **DALL·E (OpenAI)**: Criação de representações visuais para ilustrar conceitos de compliance.
+- **ElevenLabs**: Geração de narração para podcasts educativos.
+- **Synthesia**: Criação de vídeos com avatares virtuais para explicações de compliance.
+- **GitHub**: Hospedagem do projeto e documentação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Planejamento**: Definição do escopo do projeto, com foco em compliance corporativo.
+2. **Desenvolvimento**:
+   - Uso do ChatGPT para criar conteúdos relacionados a boas práticas de compliance.
+   - Aplicação do DALL·E para gerar gráficos e imagens que reforçam os conceitos apresentados.
+   - Produção de podcasts educativos com ElevenLabs.
+   - Criação de vídeos explicativos usando avatares virtuais com Synthesia.
+3. **Documentação**: Estruturação da documentação em Markdown, organizada de forma didática e acessível.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Documentação clara e objetiva sobre compliance, criada com auxílio de IA.
+    - Foi utilizado os textos gerados pelo ChatGPT porque os textos estavam mais completos e consisos.
+- Exemplos visuais para ilustrar casos práticos, como fluxos de tratamento de dados pessoais.
+- Podcasts e vídeos educativos para disseminar boas práticas de conformidade.
+- Sugestões para a implementação de um plano de conformidade utilizando ferramentas digitais.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto mostrou como as IAs generativas podem ser aliadas em temas complexos como compliance, proporcionando insights rápidos e permitindo a personalização de conteúdos. Apesar das limitações das IAs, como a necessidade de validação humana, a experiência demonstrou o potencial de integrar tecnologia e regulamentações de forma inovadora.
 
-### Exemplos e Insigths
+### Exemplos e Insights
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
@@ -46,6 +39,9 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+- [CNIL: Guia de conformidade para LGPD](https://www.cnil.fr/en/gdpr-guide)
+- [International Association of Privacy Professionals (IAPP)](https://iapp.org/)
+- [Data Protection Commission: Resumos de regulamentação](https://www.dataprotection.ie/)
+- [Compliance com Inteligência Artificial: Tendências e Desafios](https://www.complianceweek.com/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![Ilustração sobre Compliance e Tecnologia](img/security.jpg)

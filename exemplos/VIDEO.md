@@ -1,20 +1,20 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Como as IAs Generativas Transformam o Compliance 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 1 minuto explora como as IAs Generativas podem revolucionar o **Compliance**, auxiliando na otimização de processos, criação de conteúdos educativos e implementação de regulamentações como a **LGPD** e o **GDPR**.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão do conteúdo;
+- IA Generativa **[D-ID](https://www.d-id.com)** para geração de avatar virtual e sintetização de voz;
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+- **Roteirização:** Utilizei o ChatGPT para criar um roteiro dinâmico, alinhado com o tema de Compliance e tecnologias inovadoras.
+- **Avatar Virtual:** A plataforma D-ID foi usada para gerar um apresentador virtual, trazendo um tom futurista e imersivo ao vídeo.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo apresenta, de forma clara e envolvente, como as IAs Generativas podem ser aplicadas ao **Compliance**, ajudando empresas a se adequarem às regulamentações de proteção de dados enquanto otimizam suas operações.
 
-[LINK PARA O VÍDEO AQUI]()
+🎥 [Assista ao vídeo](https://youtu.be/C3ETXsZ_LJ8)  
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto mostrou como as IAs Generativas podem transformar não apenas o **Compliance**, mas também a forma como criamos conteúdos educativos e de impacto. A união entre tecnologia e criatividade continua a abrir novas possibilidades incríveis.
